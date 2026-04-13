@@ -833,3 +833,12 @@ Footer
   letter-spacing: var(--spacing);
   color: white;
 }
+
+.copyright .footer-link {
+  margin-right: 0;
+  color: var(--clr-primary-5);
+}
+
+.copyright .footer-link:hover {
+  color: var(--clr-grey-5);
+}
